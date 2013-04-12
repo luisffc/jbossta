@@ -7,7 +7,7 @@ setup(name='jbossta',
             'console_scripts': [
             'jbossta = jbossta:main',
             ]},
-      description = 'This is a script that provides a "save and run" for JSPs in a JBoss application like PHP does',
+      description = 'JBoss Transfering Auto is a script that provides a "save and run" for JSPs in a JBoss application like PHP does',
       author='Luis FF Cavalcante',
       author_email='luis@coffeetech.com.br',
       url='https://github.com/luisffc/jbossta',
